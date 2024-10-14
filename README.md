@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 Notes:
-The dash.testing library uses selenium to run the end-to-end tests, and it needs a webdriver. I recommend downloading the Chrome Webdriver from[Downloads  |  ChromeDriver  |  Chrome for Developers](https://developer.chrome.com/docs/chromedriver/downloads).
+The dash.testing library uses selenium to run the end-to-end tests, and it needs a webdriver. I recommend downloading the Chrome Webdriver from [Downloads  |  ChromeDriver  |  Chrome for Developers](https://developer.chrome.com/docs/chromedriver/downloads).
 
 ## Basic App
 
